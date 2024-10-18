@@ -1,5 +1,5 @@
 /**
- *      Exercicio
+ *      *Exercicio
  * 1.Declarar uma variavel com seu nome
  * 2.Declarar uma variavel com sua idade
  * 3.Declaar uma variavel com sua comida favorita e não atribuir valor
